@@ -1,4 +1,4 @@
-# Lab Assignment 02, Due on [Canvas](https://psu.instructure.com/courses/2306358), Jan. 24 at 11:59pm
+# Lab Assignment 02, Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15927691), Jan. 24 at 11:59pm
 ## Exploratory Data Analysis Using Classic Novels
 
 **Background / Getting Started**:  The main objective of today's lab is to repeat the activities in [Section 1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html) of the textbook and then duplicate them on a novel of your choosing.  You should maintain the existing analyses from Sections [1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html), [1.3.1](https://inferentialthinking.com/chapters/01/3/1/Literary_Characters.html), and [1.3.2](https://inferentialthinking.com/chapters/01/3/2/Another_Kind_Of_Character.html) on the novels _Huck Finn_ and _Little Women_, while adding your own anaylsis of the novel you have chosen.  To do this, you will need to combine code from three different Jupyter Notebooks.
