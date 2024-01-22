@@ -23,4 +23,6 @@ _Some of the books at Project Gutenberg don’t work very well with this assignm
 
 5.	Create a table for your chosen book with two columns, the length (in characters) and number of periods for each chapter.  Adapt the code from Section 1.3.2 to do this.  Finally, create a scatterplot that graphs all three books' periods vs. characters, using a different color for each book, just like Section 1.3.2 does for the two books.  Add comments in a text box if you notice anything interesting!
 
-When you've completed this assignment, you should select "Print" from the File menu, then somehow save to pdf using this option.  The pdf file that you create in this way is the file that you should upload to Canvas for grading.  
+When you've completed this, you should select "Print" from the File menu, then somehow save to pdf using this option.  The pdf file that you create in this way is the file that you should upload to Canvas for grading.  Sometimes the right side of the notebooks are chopped off by this print procedure, but we have found that if you can select the "A3" paper size from the advanced options, this seems to solve the problem.
+
+
