@@ -7,6 +7,8 @@ I recommend starting with the Jupyter Notebook from Section 1.3, then copy-and-p
 
 Remember that you can execute the code inside any python-code window by typing "shift-Return" inside that window or clicking on the arrow on the left side of the window.   Additionally, you can add a box for code or a box for text using the "+ Code" and "+ Text" buttons near the top left.  
 
+Finally, if you want to see how to accomplish the tasks from this lab using the `pandas` package for python, here is a [separate jupyter notebook](https://github.com/DS200-SP2024-Hunter/Week02-DueJan24/blob/main/Lab02DetailedTaskSampleCode.ipynb) that does that. If you wish, you can download the raw .ipynb file so that you're able to open it yourself.
+
 **Objective**:  You should repeat the analyses performed in [Section 1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html) on the novels Huck Finn and Little Women, and duplicate these analyses on a third novel of your own choosing.  You should do this in a single Jupyter notebook, which you'll create using code found in three separate notebooks.  
 
 **Your assignment** is as follows (Step 3 is optional; the rest are required):
